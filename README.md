@@ -55,7 +55,7 @@ Acredito em código limpo, design funcional e produtos com fluxo natural ao usu�
 
 <div align="center">
 
-| 🔥 Área                      | 🛠 Tecnologias                           | 🎯 Impacto                            |
+| 🔥 Categoria                | 🛠 Tecnologias                           | 🎯 Impacto                            |
 | ---------------------------- | ---------------------------------------- | ------------------------------------- |
 | **Jogos Multiplayer**        | SvelteKit • Socket.io • Redis            | Baixa latência, estados sincronizados |
 | **Micro-Aplicações**         | Express • Vercel • Multi Frontends       | Escalabilidade e organização          |
