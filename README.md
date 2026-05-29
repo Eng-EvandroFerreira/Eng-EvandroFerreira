@@ -3,7 +3,7 @@
 
 ---
 
-Sou Desenvolvedor **FullStack**, **UI/UX Designer** e **Engenheiro**, criando soluções completas que vão desde APIs escaláveis em Node.js até interfaces fluidas em SvelteKit e React.  
+Sou Desenvolvedor **FullStack**, **UI/UX Designer** e **Engenheiro Mecatrónico**, criando soluções completas que vão desde APIs escaláveis em Node.js até interfaces fluidas em SvelteKit e React.  
 Tenho experiência na construção de **sistemas complexos**, **jogos multiplayer**, **micro-aplicações integradas**, **arquitetura backend profissional** e **experiências otimizadas para mobile**.
 
 Acredito em código limpo, design funcional e produtos com fluxo natural ao usuário.
